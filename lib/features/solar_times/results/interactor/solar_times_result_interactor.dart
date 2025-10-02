@@ -15,7 +15,7 @@ final solarTimesRepositoryProvider =
     });
 
 @riverpod
-final class SolarTimesResultInteractor extends _$SolarTimesResultInteractor {
+class SolarTimesResultInteractor extends _$SolarTimesResultInteractor {
   final _dateFormat = DateFormat(SolarTimesConfig.dateFormatPattern);
 
   @override

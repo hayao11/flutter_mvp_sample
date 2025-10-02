@@ -6,7 +6,7 @@ import '../interactor/solar_times_result_interactor.dart';
 part 'solar_times_result_presenter.g.dart';
 
 @riverpod
-final class SolarTimesResultPresenter extends _$SolarTimesResultPresenter {
+class SolarTimesResultPresenter extends _$SolarTimesResultPresenter {
   @override
   Future<SolarTimesViewState> build() async => SolarTimesViewState.initial();
 

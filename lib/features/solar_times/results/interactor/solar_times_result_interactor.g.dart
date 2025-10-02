@@ -7,7 +7,7 @@ part of 'solar_times_result_interactor.dart';
 // **************************************************************************
 
 String _$solarTimesResultInteractorHash() =>
-    r'0adac8fb05e18e85c2c26f7413b69ace9dbbefb0';
+    r'bd0fd8794d2400df703bc5504a68dc72d7bcd2b6';
 
 /// See also [SolarTimesResultInteractor].
 @ProviderFor(SolarTimesResultInteractor)
