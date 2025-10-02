@@ -7,7 +7,7 @@ part of 'solar_times_result_presenter.dart';
 // **************************************************************************
 
 String _$solarTimesResultPresenterHash() =>
-    r'0713f1b3d3129af2c0778800b5cc03d2cb047895';
+    r'0c559ea95a94f0cece9fff85c9cae482d2d24f98';
 
 /// See also [SolarTimesResultPresenter].
 @ProviderFor(SolarTimesResultPresenter)
